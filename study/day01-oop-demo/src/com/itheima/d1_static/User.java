@@ -39,6 +39,7 @@ public class User {
         // 注意：同一个类中静态成员变量的访问可以省略类名。
         System.out.println(onlineNumber);
 
+        System.out.println("测试idea git!");
     }
 
 }
