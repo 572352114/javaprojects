@@ -40,6 +40,7 @@ public class User {
         System.out.println(onlineNumber);
 
         System.out.println("测试idea git!");
+        System.out.println("测试idea git22222!");
     }
 
 }
