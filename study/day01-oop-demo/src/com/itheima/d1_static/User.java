@@ -41,6 +41,8 @@ public class User {
 
         System.out.println("测试idea git!");
         System.out.println("测试idea git22222!");
+
+        System.out.println("测试新分支hot-fix");
     }
 
 }
